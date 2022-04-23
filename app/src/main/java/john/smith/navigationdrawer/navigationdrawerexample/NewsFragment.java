@@ -26,6 +26,7 @@ public class NewsFragment extends Fragment {
 
     public NewsFragment() {
         // Required empty public constructor
+        // more work to be done
     }
 
     /**
